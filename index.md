@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hi folks this blob is just to test the github pages usage
+
+
+# Usage
+
+Learn githubPage
